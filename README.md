@@ -20,7 +20,7 @@ yarn
 ## Usage
 
 ```sh
-git clonehttps://github.com/ajkachnic/auth-api-boilerplate
+git clone https://github.com/ajkachnic/auth-api-boilerplate
 ```
 
 
